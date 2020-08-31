@@ -12,7 +12,7 @@ I've been working as an engineer for around 7 years, and gained valuable experie
 Now I'm looking for an opportunity that will allow me to work on interesting as well as challenging projects.
 My skills and qualifications seem to be a perfect match with the job requirements for a Junior Front-end Developer position. 
 
-Having a chance to work with smartest people, cutting edge technologies, and developing abillity to create something complicated and sophisticated at the same time inspires me to move forward and push myself to the limit.
+Having a chance to work with the smartest people, cutting edge technologies, and developing abillity to create something complicated and sophisticated at the same time inspires me to move forward and push myself to the limit.
 
 ## Technical Skills
 * **Programming Languages** | HTML/CSS | Bootstrap 4 | SASS | JavaScript |
