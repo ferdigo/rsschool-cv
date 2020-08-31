@@ -53,3 +53,17 @@ if (greeting) alert('Hello stranger :)');
 * **Pavlohradkhimmash**
   - | Apr 2011 - Oct 2011 |
   - *Design Engineer*
+
+## Education
+* **School**: National Technical University of Ukraine 'Kyiv Polytechnic Institute'
+  * **Degree**: Master's degree
+   * **Field of study**: Mechanical Engineering
+* **Completed Courses**:
+  * Udemy - HTML, CSS, & JavaScript - Certification Course for Beginners.
+  * Stepik.org - Веб-разработка для начинающих: HTML и CSS
+  * ru.code-basics.com - JavaScript для начинающих
+  * Youtube lessons 
+## English
+**Fluent speaker**
+* Temporary residence in Everett, Washington state, USA (Business trip 2019)
+* Weekly meetings with US colleagues from the Boeing company (since 2018)
