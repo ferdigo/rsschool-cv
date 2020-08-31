@@ -15,11 +15,11 @@ My skills and qualifications seem to be a perfect match with the job requirement
 Having a chance to work with smartest people, cutting edge technologies, and developing abillity to create something complicated and sophisticated at the same time inspires me to move forward and push myself to the limit.
 
 ## Technical Skills
-* **Programming Languages**: HTML/CSS **|** Bootstrap 4 **|** SASS **|** JavaScript
-* **Frameworks**: React **|** Angular
-* **Methodologies**: BEM **|** Object-Oriented Programming
-* **Automation Software**:   Webpack **|** Gulp **|** Parcel
-* **VCS**: Git 
+* **Programming Languages** | HTML/CSS | Bootstrap 4 | SASS | JavaScript |
+* **Frameworks** | React | Angular |
+* **Methodologies** | BEM | Object-Oriented Programming |
+* **Automation Software** | Webpack | Gulp | Parcel |
+* **VCS** | Git |
 
 ## Soft Skills
 - [x] Analytical thinking
@@ -29,7 +29,7 @@ Having a chance to work with smartest people, cutting edge technologies, and dev
 
 ## Code example:
 ```javascript
-let greeting = true
+let greeting = true;
 if (greeting) alert('Hello stranger :)');
 ```
 ## Experience
