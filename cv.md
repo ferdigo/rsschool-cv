@@ -8,24 +8,24 @@
   - LinkedIn: [Click here](https://www.linkedin.com/in/roman-zhuk/)
 
 ## Summary
-I've been working as an engineer for around 7 years, and gained valuable experience in mechanical and aircraft industries.
-Now I'm looking for an opportunity that will allow me to work on interesting as well as challenging projects.
-My skills and qualifications seem to be a perfect match with the job requirements for a Junior Front-end Developer position. 
+I've been working as an engineer for around 7 years, and gained valuable experience in mechanical and aircraft engineering. Now I'm looking for an opportunity that will allow me to work on interesting as well as challenging projects. My skills and qualifications seem to be a perfect match with the job requirements for a Junior Front-end Developer position. 
 
-Having a chance to work with the smartest people, cutting edge technologies, and developing abillity to create something complicated and sophisticated at the same time inspires me to move forward and push myself to the limit.
+Having a chance to work with the smartest people, cutting edge technologies, and developing ability to create something complicated and sophisticated at the same time inspires me to move forward and push myself to the limit.
 
 ## Technical Skills
-* **Programming Languages** | HTML/CSS | Bootstrap 4 | SASS | JavaScript |
-* **Frameworks** | React | Angular |
-* **Methodologies** | BEM | Object-Oriented Programming |
+
+* **Web technologies** | HTML/CSS | Bootstrap 4 | SASS | 
+* **Programming Languages** | JavaScript |
+* **Frameworks** | React | Angular | Vue.js |
+* **Methodologies** | BEM | Object-Oriented Programming | Scrum |
 * **Automation Software** | Webpack | Gulp | Parcel |
 * **VCS** | Git |
 
 ## Soft Skills
 - [x] Analytical thinking
 - [x] Teamwork
-- [x] Agile
-- [x] Scrum
+- [x] Problem solving
+- [x] Open-mindedness
 
 ## Code example:
 ```javascript
@@ -60,9 +60,10 @@ if (greeting) alert('Hello stranger :)');
    * **Field of study**: Mechanical Engineering
 * **Completed Courses**:
   * Udemy - HTML, CSS, & JavaScript - Certification Course for Beginners.
-  * Stepik.org - Веб-разработка для начинающих: HTML и CSS
-  * ru.code-basics.com - JavaScript для начинающих
-  * Youtube lessons 
+  * Stepik.org - Web development for beginners: HTML и CSS
+  * ru.code-basics.com - JavaScript for beginners
+  * RS school
+   
 ## English
 **Fluent speaker**
 * Temporary residence in Everett, Washington state, USA (Business trip 2019)
